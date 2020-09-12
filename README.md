@@ -2,7 +2,6 @@
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-kun&layout=compact)
 
-
 <!--
 **Git-kun/Git-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
